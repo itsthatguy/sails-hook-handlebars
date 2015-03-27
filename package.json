@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-handlebars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allows using handlebars on the backend for templating dynamic data. (for use with sailsjs)",
   "main": "api/hooks/Handlebars/index.js",
   "scripts": {
