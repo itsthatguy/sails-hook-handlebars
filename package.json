@@ -1,0 +1,17 @@
+{
+  "name": "sails-hook-handlebars",
+  "version": "0.0.1",
+  "description": "Allows using handlebars on the backend for generating dynamic data.",
+  "main": "api/hooks/Handlebars/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin altman <kevin@itsthatguy.com>",
+  "license": "ISC",
+  "sails": {
+    "isHook": true
+  },
+  "dependencies": {
+    "handlebars": "^3.0.1"
+  }
+}
