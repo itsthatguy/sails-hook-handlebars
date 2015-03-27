@@ -1,7 +1,7 @@
 {
   "name": "sails-hook-handlebars",
   "version": "0.0.1",
-  "description": "Allows using handlebars on the backend for generating dynamic data.",
+  "description": "Allows using handlebars on the backend for templating dynamic data. (for use with sailsjs)",
   "main": "api/hooks/Handlebars/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
